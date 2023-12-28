@@ -4,13 +4,13 @@ This is a customized api fuzzer that can fuzz for APIs upto a user specified dep
 
 ## Usage
 
-For seeing the usage, just type
+For seeing the usage,
 
 ``
 python3 fuzzer.py
 ``
 
-For more information on the different options available, type
+For more information on the different options available,
 
 ``
 python3 fuzzer.py -h
